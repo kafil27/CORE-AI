@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # core_ai
 
 AI CORE STUDIOS - ALL IN ONE AI GENERATION STUDIO
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# CORE-AI
+THIS IS A MULTIMODAL AI GENERATION APP 
+>>>>>>> ed0c14614946be955c969344a8499b71c4fa98e2
